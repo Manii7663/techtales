@@ -1,0 +1,9 @@
+{
+	"name": "techtales",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a8cf7fe6-2d04-4722-8b4a-263c2196d4f4",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}
